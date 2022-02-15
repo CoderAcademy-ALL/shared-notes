@@ -9,3 +9,6 @@
 * git add <filename>
 * git commit
 * git push origin master
+
+## Getting info
+* git log
