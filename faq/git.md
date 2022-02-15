@@ -4,3 +4,6 @@
 * `A:`
   * Yes the command order is the same as in the terminal
   * Yes everything you can do in the terminal can be done in source tree and vice versa
+
+* `Q:` Starting out what do you recommend using, Git on the command line or sourcetree?
+* `A:` It is better to start with the command line to learn the underlying concepts. Once you are confident then you can progress to using sourcetree or another visual editor
