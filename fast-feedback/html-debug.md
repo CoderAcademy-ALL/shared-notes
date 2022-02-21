@@ -1,4 +1,4 @@
-# Debugging HTML
+# W3C Debugging HTML
 
 ## Using the w3c validator guide
 
