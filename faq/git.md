@@ -10,4 +10,4 @@
 - `A:` It is better to start with the command line to learn the underlying concepts. Once you are confident then you can progress to using sourcetree or another visual editor
 
 - `Q:` Is there a specific format to the messages in our commits that we have to follow?
-- `A:`
+- `A:` Yes and no. Most companies have a format of `ISSUE-ID BREIF-DESCRIPTION` and then the `ISSUE-ID` links with something like trello or jira. See this https://bigbrassband.com/git-integration-for-jira/documentation/linking-git-commits-to-jira-issues.html 
